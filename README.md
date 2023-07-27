@@ -56,7 +56,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-These games were created by [Your Name](https://github.com/IbLahlou).
+These games were created by [Ibrahim Lahlou](https://github.com/IbLahlou).
 
 
 
