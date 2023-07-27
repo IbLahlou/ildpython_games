@@ -15,9 +15,8 @@ RUN apt-get update && apt-get install -y \
     libavformat-dev \
     libswscale-dev
 
-# Install Python dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# Install pygame library
+RUN pip install pygame
 
 # Copy your game files to the container
 COPY shifomi.py .
