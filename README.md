@@ -10,7 +10,7 @@ This repository contains the following games:
 1. Shifumi: A simple rock-paper-scissors game.
 2. Snake: The classic snake game where the player controls a snake to eat food and grow longer.
 3. Pong: The classic Pong game, a two-player tennis-like game.
-4. Hangman: A word guessing game where players try to guess a secret word before running out of attempts.
+
 
 ## Installation
 
