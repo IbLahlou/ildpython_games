@@ -18,10 +18,10 @@ RUN apt-get update && apt-get install -y \
 # Install pygame library
 RUN pip install pygame
 
-# Copy your game files to the container
-COPY shifomi.py .
-COPY snake.py .
-COPY pong.py .
+# Copy your game files from the "src" directory to the container's working directory
+COPY src/shifomi.py .
+COPY src/snake.py .
+COPY src/pong.py .
 
 # Set the default command to run your games
-CMD ["python", "snake.py"]
+CMD ["python", "shifomi.py"]
