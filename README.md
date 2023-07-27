@@ -18,13 +18,13 @@ This repository contains the following games:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/pygame-games-collection.git
+   git clone https://github.com/IbLahlou/ildpython_games.git
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd pygame-games-collection
+   cd ildpython_games
    ```
 
 4. Install the required dependencies:
@@ -38,7 +38,7 @@ This repository contains the following games:
 1. To play any game, run the corresponding Python script from the command line:
 
    ```bash
-   python shifumi.py
+   python shifomi.py
    python snake.py
    python pong.py
    python hangman.py
